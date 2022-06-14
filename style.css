@@ -24,3 +24,55 @@
     font-size: 30px;
     font-style: bold;
 }
+
+.white {
+    background-color: blue;
+    width: 1544px;
+    height: 1465px;
+}
+
+header {
+    /* display: flex;
+    justify-content: space-around; */
+    height: 80px;
+
+}
+
+header a {
+    display: inline-block;
+    text-align: center;
+    margin-left: 20px;
+    font-size: 55px;
+    font-style: regular;
+}
+
+/* header p {
+    display: inline-block;
+    text-align: center;
+    margin-left: 550px;
+} */
+.note {
+    display: inline-block;
+}
+
+header p {
+    display: inline-block;
+}
+
+header img {
+    display: inline-block;
+}
+
+header h2 {
+    display: inline-block;
+}
+
+/* .justC {
+    margin-right: 60px;
+    font-size: 20px;
+} */
+.note {
+    margin-left: 700px;
+    padding: 25px;
+    font-size: 15px;
+}
